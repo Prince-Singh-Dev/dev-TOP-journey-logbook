@@ -1,0 +1,61 @@
+                                                                     Lesson overview
+
+This section contains a general overview of topics that you will learn in this lesson.
+
+1. Computer software and hardware.
+2. How to take screenshots.
+3. The importance of strong passwords.
+
+                                                               QUES - 1 : What is a Computer 
+
+A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data. You may already know that 
+you can use a computer to type documents, send email, play games, and browse the Web. You can also use it to edit or create spreadsheets, presentations, and 
+even videos.
+
+                                                                    HARDWARE vs SOFTWARE 
+
+Hardware is any part of your computer that has a physical structure, such as the keyboard or mouse. It also includes all of the computer's internal parts like : RAM , ROM , DISK , HardDrives , MotherBoards etc. 
+
+Software is any set of instructions that tells the hardware what to do and how to do it. Examples of software include web browsers, games, and word processors.
+
+Everything you do on your computer will rely on both hardware and software. For example, right now you may be viewing this lesson in a web browser (software) and using your mouse (hardware) to click from page to page.
+
+                                                                     Types of Computers
+
+1. Desktop Computer : Desktop computers are designed to be placed on a desk , made up of a few different parts, including the computer case, monitor, keyboard, and mouse
+2. Laptops computer : Laptops are battery-powered computers that are more portable than desktops, allowing you to use them almost anywhere.
+3. Tablet Computer : Instead of a keyboard and mouse, tablets use a touch-sensitive screen for typing and navigation. The iPad is an example of a tablet.
+4. SERVERS : A server is a computer that serves up information to other computers on a network. For example, whenever you use the Internet, you're looking at something that's stored on a server. Many businesses also use local file servers to store and share files internally
+
+
+                                                                What is an Operating System 
+
+An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language. Without an operating system, a computer is useless.
+
+                                                                The Operating System's Job
+
+operating system (OS) manages all of the software and hardware on the computer. Most of the time, there are several different computer programs running at the same time, and they all need to access your computer's central processing unit (CPU), memory, and storage. The operating system coordinates all of this to make sure each program gets what it needs.
+
+                                                                Types of Operating System
+
+Operating systems usually come pre-loaded on any computer you buy. Most people use the operating system that comes with their computer, but it's possible to upgrade or even change operating systems. The three most common operating systems for personal computers are Microsoft Windows, macOS, and Linux.
+
+1. Microsoft Windows 
+
+Microsoft created the Windows operating system in the mid-1980s. There have been many different versions of Windows, but the most recent ones are 
+Windows 11, version 25H2 (released in  2021) Windows 10 (released in 2015), Windows 8 (2012), Windows 7 (2009), and Windows Vista (2007). Windows comes pre-loaded on most new PCs, which helps to make it the most popular operating system in the world.
+
+2. macOS
+
+macOS (previously called OS X) is a line of operating systems created by Apple. It comes preloaded on all Macintosh computers, or Macs. Some of the specific versions include Mojave (released in 2018), High Sierra (2017), and Sierra (2016).
+
+According to StatCounter Global Stats, macOS users account for less than 10% of global operating systems—much lower than the percentage of Windows users (more than 80%). One reason for this is that Apple computers tend to be more expensive. However, many people do prefer the look and feel of macOS over Windows.
+
+3. Linux
+
+Linux (pronounced LINN-ux) is a family of open-source operating systems, which means they can be modified and distributed by anyone around the world. This is different from proprietary software like Windows, which can only be modified by the company that owns it. The advantages of Linux are that it is free, and there are many different distributions—or versions—you can choose from.
+
+According to StatCounter Global Stats, Linux users account for less than 2% of global operating systems. However, most servers run Linux because it's relatively easy to customize.
+
+                                                                What is an application 
+
