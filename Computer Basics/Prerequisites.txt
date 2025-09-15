@@ -1,4 +1,6 @@
-                                                                     Lesson overview
+------------------------------------------------------------------- Lesson overview --------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 This section contains a general overview of topics that you will learn in this lesson.
 
@@ -6,13 +8,19 @@ This section contains a general overview of topics that you will learn in this l
 2. How to take screenshots.
 3. The importance of strong passwords.
 
-                                                                    What is a Computer 
+
+------------------------------------------------------------------- What is a Computer -------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data. You may already know that 
 you can use a computer to type documents, send email, play games, and browse the Web. You can also use it to edit or create spreadsheets, presentations, and 
 even videos.
 
-                                                                    HARDWARE vs SOFTWARE 
+
+------------------------------------------------------------------- HARDWARE vs SOFTWARE ----------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Hardware is any part of your computer that has a physical structure, such as the keyboard or mouse. It also includes all of the computer's internal parts like : RAM , ROM , DISK , HardDrives , MotherBoards etc. 
 
@@ -20,7 +28,10 @@ Software is any set of instructions that tells the hardware what to do and how t
 
 Everything you do on your computer will rely on both hardware and software. For example, right now you may be viewing this lesson in a web browser (software) and using your mouse (hardware) to click from page to page.
 
-                                                                     Types of Computers
+
+------------------------------------------------------------------- Types of Computers -------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 1. Desktop Computer : Desktop computers are designed to be placed on a desk , made up of a few different parts, including the computer case, monitor, keyboard, and mouse
 2. Laptops computer : Laptops are battery-powered computers that are more portable than desktops, allowing you to use them almost anywhere.
@@ -28,15 +39,20 @@ Everything you do on your computer will rely on both hardware and software. For 
 4. SERVERS : A server is a computer that serves up information to other computers on a network. For example, whenever you use the Internet, you're looking at something that's stored on a server. Many businesses also use local file servers to store and share files internally
 
 
-                                                                    What is an Operating System 
+---------------------------------------------------------------- What is an Operating System ------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language. Without an operating system, a computer is useless.
 
-                                                                    The Operating System's Job
+----------------------------------------------------------------- The Operating System's Job -------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 operating system (OS) manages all of the software and hardware on the computer. Most of the time, there are several different computer programs running at the same time, and they all need to access your computer's central processing unit (CPU), memory, and storage. The operating system coordinates all of this to make sure each program gets what it needs.
 
-                                                                    Types of Operating System
+
+----------------------------------------------------------------- Types of Operating System -------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Operating systems usually come pre-loaded on any computer you buy. Most people use the operating system that comes with their computer, but it's possible to upgrade or even change operating systems. The three most common operating systems for personal computers are Microsoft Windows, macOS, and Linux.
 
@@ -57,7 +73,10 @@ Linux (pronounced LINN-ux) is a family of open-source operating systems, which m
 
 According to StatCounter Global Stats, Linux users account for less than 2% of global operating systems. However, most servers run Linux because it's relatively easy to customize.
 
-                                                                    What is an application 
+
+
+--------------------------------------------------------------------- What is an application -------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You may have heard people talking about using a program, an application, or an app. But what exactly does that mean? Simply put, an app is a type of software that allows you to perform specific tasks. Applications for desktop or laptop computers are sometimes called desktop applications, while those for mobile devices are called mobile apps.
 
@@ -65,13 +84,19 @@ When you open an application, it runs inside the operating system until you clos
 
 App is a common term for an application, especially for simple applications that can be downloaded inexpensively or even for free. Many apps are also available for mobile devices and even some TVs.
 
-                                                                    What is the cloud
+
+
+----------------------------------------------------------------- What is the cloud -------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You may have heard people using terms like the cloud, cloud computing, or cloud storage. But what exactly is the cloud?
 
 Simply put, the cloud is the Internet—more specifically, it's all of the things you can access remotely over the Internet. When something is in the cloud, it means it's stored on Internet servers instead of your computer's hard drive.
 
-                                                                    Why use the cloud
+
+----------------------------------------------------------------- Why use the cloud -------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Some of the main reasons to use the cloud are convenience and reliability. For example, if you've ever used a web-based email service, such as Gmail or Yahoo! Mail, you've already used the cloud. All of the emails in a web-based service are stored on servers rather than on your computer's hard drive. This means you can access your email from any computer with an Internet connection. It also means you'll be able to recover your emails if something happens to your computer.
 
@@ -83,7 +108,10 @@ File sharing: The cloud makes it easy to share files with several people at the 
 
 Backing up data: You can also use the cloud to protect your files. There are apps such as Carbonite that automatically back up your data to the cloud. This way, if your computer ever is lost, stolen, or damaged, you'll still be able to recover these files from the cloud.
 
-                                                                    What is a web app
+
+----------------------------------------------------------------- What is a web app -------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 web apps—that run in the cloud and do not need to be installed on your computer. Many of the most popular sites on the Internet are actually web apps. 
 
@@ -91,7 +119,10 @@ web apps—that run in the cloud and do not need to be installed on your compute
 
 2. Google Docs: Google Docs is an office suite that runs in your browser. Much like Microsoft Office, you can use it to create documents, spreadsheets, presentations, and more. And because the files are stored in the cloud, it's easy to share them with others.
 
-                                                                 Protecting Your Computer
+
+-----------------------------------------------------------------  Protecting Your Computer -------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Your computer faces many potential threats, including viruses, malware, and hard drive failure. This is why it's important to do everything you can to protect your computer and your files.
 
@@ -99,7 +130,9 @@ Your computer faces many potential threats, including viruses, malware, and hard
 
 The best way to guard against malware is to install antivirus software, such as Bitdefender, Norton, or Kaspersky. Antivirus software helps to prevent malware from being installed, and it can also remove malware from your computer.
 
-                                                                    Troubleshooting
+----------------------------------------------------------------- Troubleshooting -------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
                                                                 
 Problem: An application is frozen 
 
