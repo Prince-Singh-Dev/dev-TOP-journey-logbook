@@ -1,2 +1,55 @@
-How does the web work ?
+OVERVIEW - This section contains a general overview of topics that you will learn in this lesson.
 
+Describe what the internet is.
+Describe what packets are and how they are used to transfer data.
+Understand the differences between a web page, web server, web browser and search engine.
+Briefly explain what a client is.
+Briefly explain what a server is.
+Explain what IP addresses are.
+Explain what DNS servers are.
+
+
+QUES 1 - How does the Internet Work ?
+
+
+The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
+
+It was began in 1960s by the US army funds for the research project then it was furthur evolved and come in use for public in 1980s by the collaboration of some public sector and Private companies 
+
+
+** A simple network **
+
+
+When two computers need to communicate, you have to link them, either physically (usually with an Ethernet cable) or wirelessly (for example with Wi-Fi or Bluetooth systems). All modern computers can sustain any of those connections.
+
+but this can be complex due to multiple connections .. So to solve this issue , each computer is connected to a switch known as network switch whose working is same like railway signaler , whose complete work is to take care that one message transfer from one computer A should reach to the only computer B at which it was sent ..
+
+but what if , we need 1000+ computer on the network then at that time we can connect multiple devices with the switch that is furthur connected to another switch with different number of connected devices but this solution leads to a problem that if one switch fails then plenty number of devices connected to that newtork will be disconnected ....
+
+to solve this issue , we got router in our networking devices , whose work is to get the message in form of packets then router just reads the packets recieptent's addrress and sender's address and send the packet to the reciever directly without much travelling of packets from one place to another ...
+
+The next step is to send the messages from our network to the network we want to reach. To do that, we will connect our network to an Internet Service Provider (ISP). An ISP is a company that manages some special routers that are all linked together and can also access other ISPs' routers. So the message from our network is carried through the network of ISP networks to the destination network. The Internet consists of this whole infrastructure of networks.
+
+
+
+Ques 2 - Finding a Computer (IP , DNS)
+
+
+
+Basically , each computer that is connected to a network has a specific address known as IP (Internet Protocol) .. It's an address of four numbers seprated with dots : for example :- 192.6.2.272
+
+but as humans it is harder for us to remember the IP so the IP is align with the human readable and rememberable name known as Domain name .. for example :- google.com is the domain name given over the IP 142.250.190.78 and it is easier to search google.com rather than searching with its IP
+
+
+Ques 3 - Intenet and The WEB 
+
+
+Internet is basically the Infrastructure created to connect millions of devices together whereas the WEB is built as service over that infrastructure ..
+
+** Intranets and Extranets ** 
+
+Intranet is basically the private networks whose access is very limited . for example :- An Organisation host a webpage to share resources with thier members then this type of network is known as Intranets ..
+
+Whereas
+
+Extranets are same as Intranet but it is open scource means not limited to few people , it is basically used to collaborate and share resources with other organisations as well ..
