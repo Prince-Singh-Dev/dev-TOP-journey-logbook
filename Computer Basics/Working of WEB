@@ -53,3 +53,15 @@ Intranet is basically the private networks whose access is very limited . for ex
 Whereas
 
 Extranets are same as Intranet but it is open scource means not limited to few people , it is basically used to collaborate and share resources with other organisations as well ..
+
+
+Ques 4 - Difference between Web Server , Web Page and Search Engine
+
+WEBPAGE : A document that can be displayed in a web browser. These are also often called just "pages". Such documents are written in the HTML language (which we look at in more detail later on)...
+
+WEBSITE : Collection of WebPages connected in group together into a single resource with the links connecting them together is known as Website ...
+
+WEBSERVER : A computer that hosts the website on the internet ...
+
+Search Engine : A web service that basically helps you to access the internet , websites and their webpages .. there are various types of Search Engines : Mozilla FireFox , Yahoo , Chrome , Microsoft Edge ...
+
